@@ -1,8 +1,11 @@
 <html>
 <body>
-	<h2>Hello World!</h2>
+	<h2>Bitte geben Sie Ihre ID und Ihr Passwort ein.</h2>
 	<form action="getEmployees">
-		<input type="text" name="id"> <input type="submit">
+		<input type="text" name="id"> 
+		<input type="text" name="password">
+		 <input type="submit">
 	</form>
+	<p>(ID: 1 Passwort:Muh)</p>
 </body>
 </html>
