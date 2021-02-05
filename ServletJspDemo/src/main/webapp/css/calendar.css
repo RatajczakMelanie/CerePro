@@ -7,7 +7,7 @@ body {font-family: Verdana, sans-serif;}
 .month {
   padding: 70px 25px;
   /*width: 100%;*/
-  background: #1abc9c;
+  background: #02a3da;
   text-align: center;
 }
 
@@ -67,12 +67,9 @@ body {font-family: Verdana, sans-serif;}
   color: #777;
   padding-bottom:10px;
 }
-.days li:hover{
-	background:white;
-}
 /* Highlight the "current" day */
 .days li .active {
   padding: 5px;
-  background: #1abc9c;
+  background: #02a3da;
   color: white !important
 }
